@@ -1,7 +1,7 @@
 # About Patatap jQuery Project
 
 <ul>
-    <li>HTML, CSS, jQuery are used.</li>
+    <li>HTML, CSS, JavaScript Libraries are used.</li>
     <li>Followed "Udemy" > "The Web Developer Bootcamp 2020" > "Project Patatap Clone".</li>
 </ul>
 
